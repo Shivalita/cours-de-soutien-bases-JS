@@ -1,0 +1,16 @@
+body {
+    background-color: lightslategray;
+}
+
+.card-title {
+    cursor: pointer;
+    padding-bottom: 3px;
+}
+
+.title1 {
+    background-color: lightslategray;
+}
+
+.otherTitle {
+    background-color: #f7df1e;
+}
